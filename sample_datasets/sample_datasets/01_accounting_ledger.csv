@@ -1,0 +1,41 @@
+TxnID,Date,Account,Description,Debit,Credit
+TX00001,2025-05-22,Payroll Expense,Monthly rent,4292.29,0
+TX00002,2025-10-11,Payroll Expense,Equipment buy,1047.56,0
+TX00003,2025-08-18,Accounts Payable,Utility bill,0,3748.27
+TX00004,2025-07-19,Equipment,Equipment buy,0,2403.81
+TX00005,2025-02-19,Payroll Expense,Customer deposit,0,4577.64
+TX00006,2025-11-01,Payroll Expense,Monthly rent,4349.29,0
+TX00007,2025-12-13,Rent Expense,Supplier purchase,0,4422.81
+TX00008,2025-07-09,Inventory,Payroll run,0,897.34
+TX00009,2025-09-03,Accounts Payable,Utility bill,390.06,0
+TX00010,2025-11-12,Accounts Payable,Refund issued,1704.9,0
+TX00011,2025-04-04,Accounts Payable,Payroll run,4318.4,0
+TX00012,2025-06-01,Rent Expense,Equipment buy,1635.47,0
+TX00013,2025-04-02,Cash,Invoice payment,0,866.83
+TX00014,2025-12-16,Equipment,Invoice payment,0,2233.36
+TX00015,2025-02-15,Cash,Supplier purchase,2970.06,0
+TX00016,2025-12-16,Accounts Receivable,Equipment buy,3674.56,0
+TX00017,2025-06-22,Payroll Expense,Customer deposit,0,2679.63
+TX00018,2025-01-18,Inventory,Monthly rent,0,1890.91
+TX00019,2025-03-27,Revenue,Utility bill,0,263.63
+TX00020,2025-07-13,Accounts Receivable,Customer deposit,0,3902.45
+TX00021,2025-02-12,Accounts Receivable,Supplier purchase,0,2599.58
+TX00022,2025-02-28,Rent Expense,Monthly rent,0,186.54
+TX00023,2025-09-11,Accounts Receivable,Invoice payment,0,3624.9
+TX00024,2025-05-06,Rent Expense,Refund issued,3765.2,0
+TX00025,2025-02-28,Equipment,Utility bill,0,4731.35
+TX00026,2025-12-18,Cash,Invoice payment,3015.41,0
+TX00027,2025-09-05,Rent Expense,Equipment buy,0,1130.29
+TX00028,2025-09-02,Rent Expense,Equipment buy,1411.91,0
+TX00029,2025-10-21,Payroll Expense,Refund issued,0,1769.71
+TX00030,2025-09-09,Rent Expense,Invoice payment,0,4195.23
+TX00031,2025-02-16,Equipment,Refund issued,1269.5,0
+TX00032,2025-08-14,Equipment,Payroll run,0,748.72
+TX00033,2025-07-27,Inventory,Customer deposit,0,1417.32
+TX00034,2025-11-13,Cash,Supplier purchase,0,4230.82
+TX00035,2025-10-13,Accounts Payable,Refund issued,0,1595.47
+TX00036,2025-06-10,Cash,Customer deposit,894.83,0
+TX00037,2025-06-23,Rent Expense,Payroll run,0,720.57
+TX00038,2025-01-19,Revenue,Monthly rent,0,2904.23
+TX00039,2025-07-27,Cash,Customer deposit,2838.5,0
+TX00040,2025-02-24,Payroll Expense,Equipment buy,2710.7,0
